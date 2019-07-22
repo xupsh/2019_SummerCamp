@@ -1,9 +1,9 @@
 ![alt tag](./images/SummerCamp.png)
 # 2019 SEU-Xilinx International Summer School
 
-2019 SEU-Xilinx International Summer School was conducted in Nan Jing city, from 7th July to 19th July and there were 112 trainees from 70+ different schools all over the world. The training was separated into 2 stages, 5-day-long lectures and technical trainings and  7-day-long project time. 
+2019 SEU-Xilinx International Summer School was conducted in NanJing city, from 7th July to 19th July and there were 112 trainees from 70+ different schools all over the world. The training was separated into 2 stages, 5-day-long lectures and technical trainings and  7-day-long project time. 
 
-This repository contains all the designs that submitted by trainees in summer school, if you can not find the project of your team, please contact with me @weli@xilinx.com. 
+This repository contains all the designs that submitted by trainees in summer camp, if you can not find the project of your team, please contact with me @weli@xilinx.com. 
 
 2019 SEU-Xilinx暑期学校从7月7日到7月19日，在南京举办，为期12天，共有112名来自70多所高校的学员，培训包括5天的技术培训和专家讲座，7天的动手项目。
 
