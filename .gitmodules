@@ -13,3 +13,6 @@
 [submodule "DPU"]
 	path = DPU
 	url = https://github.com/Ace-Pegasus/DPU.git
+[submodule "Create-caffe.model-on-caffe-"]
+	path = Create-caffe.model-on-caffe-
+	url = https://github.com/FengPenggo/Create-caffe.model-on-caffe-.git
