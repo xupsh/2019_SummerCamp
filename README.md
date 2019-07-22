@@ -12,7 +12,7 @@ This repository contains all the designs that submitted by trainees in summer sc
 ## Project List（完整的项目列表）
 
 No. | Platform | Team Member | Projec Name |
--|-|-|-|
+-|-|-|-|-
 1|	Ultra96|鲍春 胡心雨 常乐|基于Ultra96的行人检测系统|
 2|	PYNQ-Z2|李明莉	葛倍倍 钱佳 张俊杰|基于PYNQ的调酒机器人设计|
 3|	AWS|朱泳波	陆志成	刘中元	姚汉梅|SDAceel环境下的CRC算法加速|
@@ -26,8 +26,8 @@ No. | Platform | Team Member | Projec Name |
 15|	SEA-S7|王路	姜亚超	陈光磊 田蕾|基于SEA-S7平台的小球追踪|
 16|	SEA-S7|戴荣时	程嘉轩	张陈睿	孙沐天|基于SEA-S7的二维码识别系统|
 17|	Ultra96|杜江溯	古奕康	陈志炜	刘璐|基于DPU 加速的 深度学习 人脸识别 与颜值评估 解决方案|
-18|	Ultra96|谭祖雄	崔傲	张伟枫	赵天翼|深度学习项目DPU|
-19|	Ultra96|刘泽世	石正源	侯兴中|DPU|
+18|	Ultra96|谭祖雄	崔傲	张伟枫	赵天翼|DNN 加速器硬件实现与优化|
+19|	Ultra96|刘泽世	石正源	侯兴中|基于Ultra96和DPU的人脸检测应用|
 20|	Ultra96|彭锋	董金陇	闫宇航|深度学习项目|
 21|	SEA-S7|谭正奇	谭静柔	刘卓君	宋玉洁|示波器 - 任意波形发生器|				
 25|	Ultra96|林晓波 许运丰 刘杨琳 刘扬|深度学习项目|
@@ -37,7 +37,7 @@ No. | Platform | Team Member | Projec Name |
 29|	PYNQ-Z2|陈晨	叶进取	牟德增|路标识别|
 30|	PYNQ-Z2|李响	张书瑜	彭滨|皮肤检测|
 31|	PYNQ-Z2|吴玮琳	刘鹏晨|红绿灯检测及反馈|
-32|	PYNQ-Z2|洪刚	白鹏程	刘海军	王琳|车道线检测||
+32|	PYNQ-Z2|洪刚	白鹏程	刘海军	王琳|车道线检测|
 33|	PYNQ-Z2|贾广瑞	赵凡	陈欣怡	杨悦|行人模型检测|
 35|	PYNQ-Z2|潘银飞	杨静磊	朱浩哲	林立宇|双目立体视觉|
 36|	PYNQ-Z2|秦树洋	薛臻	纪云鹏|基于fft算法的卷积神经网络加速器|

@@ -10,3 +10,6 @@
 [submodule "FaceScore-Accelerated-by-Xilinx-DPU"]
 	path = FaceScore-Accelerated-by-Xilinx-DPU
 	url = https://github.com/dujiangsu/FaceScore-Accelerated-by-Xilinx-DPU.git
+[submodule "DPU"]
+	path = DPU
+	url = https://github.com/Ace-Pegasus/DPU.git
