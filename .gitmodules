@@ -19,3 +19,6 @@
 [submodule "Pynq-Respeaker-DOA-Vivado"]
 	path = Pynq-Respeaker-DOA-Vivado
 	url = https://github.com/CarlosShiu/Pynq-Respeaker-DOA-Vivado.git
+[submodule "Xilinx_MUSIC"]
+	path = Xilinx_MUSIC
+	url = https://github.com/LexPG12138/Xilinx_MUSIC.git
