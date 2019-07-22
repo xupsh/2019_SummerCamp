@@ -9,6 +9,10 @@ This repository contains all the designs that submitted by trainees in summer ca
 
 本仓库用于存放动手项目阶段的所有项目源码、操作手册和技术笔记等内容，如果在仓库中没有发现你所在小组的项目，请联系我。weli@xilinx.com
 
+## Group Photo (合照)
+
+![合照](./images/groupPhoto.jpg)
+
 
 ## Project List（完整的项目列表）
 
