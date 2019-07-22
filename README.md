@@ -12,7 +12,7 @@ This repository contains all the designs that submitted by trainees in summer sc
 ## Project List（完整的项目列表）
 
 No. | Platform | Team Member | Projec Name |
--|-|-|-|-
+-|-|-|-|-|
 1|Ultra96|鲍春、胡心雨、常乐|基于Ultra96的行人检测系统|
 
 
