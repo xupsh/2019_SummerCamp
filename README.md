@@ -48,4 +48,4 @@ No. | Platform | Team Member | Projec Name
 
 Please continue to optimize the designs.
 
-虽然暑期学校已经结束，我们依然欢迎您不继续改进你的设计，提交修订版的代码个文档到github中。
+虽然暑期学校已经结束，我们依然欢迎大家不继续改进设计，并提交修订版的代码个文档到github中。
