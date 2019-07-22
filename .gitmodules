@@ -25,3 +25,6 @@
 [submodule "Traffic-Light-Detection"]
 	path = Traffic-Light-Detection
 	url = https://github.com/51184501129/Traffic-Light-Detection.git
+[submodule "stereo-vision-fpga"]
+	path = stereo-vision-fpga
+	url = https://github.com/zhutmost/stereo-vision-fpga.git
