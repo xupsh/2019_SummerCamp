@@ -16,3 +16,6 @@
 [submodule "Create-caffe.model-on-caffe-"]
 	path = Create-caffe.model-on-caffe-
 	url = https://github.com/FengPenggo/Create-caffe.model-on-caffe-.git
+[submodule "Pynq-Respeaker-DOA-Vivado"]
+	path = Pynq-Respeaker-DOA-Vivado
+	url = https://github.com/CarlosShiu/Pynq-Respeaker-DOA-Vivado.git
