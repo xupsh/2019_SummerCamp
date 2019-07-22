@@ -13,7 +13,7 @@ This repository contains all the designs that submitted by trainees in summer sc
 
 No. | Platform | Team Member | Projec Name |
 -|-|-|-|
-1|	Ultra96|鲍春 胡心雨 常乐|基于SSD的行人检测系统|
+1|	Ultra96|鲍春 胡心雨 常乐|基于Ultra96的行人检测系统|
 2|	PYNQ-Z2|李明莉	葛倍倍 钱佳 张俊杰|基于PYNQ的调酒机器人设计|
 3|	PYNQ-Z2|朱泳波	陆志成	刘中元	姚汉梅|Cloud Accelarating|
 5|	PYNQ-Z2|赵剑飞	刘业扬	刘荪荟|角度测量|

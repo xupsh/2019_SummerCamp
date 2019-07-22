@@ -1,0 +1,3 @@
+[submodule "SSD_detection_by_DPU_on_Ultra_96"]
+	path = SSD_detection_by_DPU_on_Ultra_96
+	url = https://github.com/EdwardBao1006/SSD_detection_by_DPU_on_Ultra_96.git
