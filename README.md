@@ -30,7 +30,7 @@ No. | Platform | Team Member | Projec Name
 19|Ultra96|刘泽世、石正源、侯兴中|基于Ultra96和DPU的人脸检测应用|
 20|Ultra96|彭锋、董金陇、闫宇航|基于DPU的人脸识别与检测|
 21|SEA-S7|谭正奇、谭静柔、刘卓君、宋玉洁|示波器 - 任意波形发生器|				
-25|Ultra96|林晓波、许运丰、刘杨琳、刘扬|基于FPGA的高帧率目标检测系统设计|
+25|Ultra96|林晓波、许运丰、刘杨琳、刘扬|[基于FPGA的高帧率目标检测系统设计](https://github.com/xilinxfairchild/FPGABasedHighPerformanceTargetChecking.git)|
 26|PYNQ-Z2|萧嘉乐、袁霄亮、孔昶|高帧率Respeaker方位识别与语言识别及在AWS上的物联网应用|
 27|PYNQ-Z2|赵颖渊、李辉、曹新野|电子音乐生成、效果器|
 28|PYNQ-Z2|周聪、马慧宇、马丽萍|Respeaker解码及定位|
