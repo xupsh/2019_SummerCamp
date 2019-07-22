@@ -28,3 +28,6 @@
 [submodule "stereo-vision-fpga"]
 	path = stereo-vision-fpga
 	url = https://github.com/zhutmost/stereo-vision-fpga.git
+[submodule "FPGABasedHighPerformanceTargetChecking"]
+	path = FPGABasedHighPerformanceTargetChecking
+	url = https://github.com/xilinxfairchild/FPGABasedHighPerformanceTargetChecking.git
