@@ -22,3 +22,6 @@
 [submodule "Xilinx_MUSIC"]
 	path = Xilinx_MUSIC
 	url = https://github.com/LexPG12138/Xilinx_MUSIC.git
+[submodule "Traffic-Light-Detection"]
+	path = Traffic-Light-Detection
+	url = https://github.com/51184501129/Traffic-Light-Detection.git
