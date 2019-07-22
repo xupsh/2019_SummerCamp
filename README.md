@@ -5,7 +5,7 @@
 
 This repository contains all the designs that submitted by trainees in summer camp, if you can not find the project of your team, please contact with me @weli@xilinx.com. 
 
-2019 SEU-Xilinx暑期学校从7月7日到7月19日，在南京举办，为期12天，共有112名来自70多所高校的学员，培训包括5天的技术培训和专家讲座，7天的动手项目。
+2019 SEU-Xilinx暑期学校从7月7日到7月19日，在南京举办，为期12天，共有112名来自70多所高校的学员参加，培训包括5天的技术培训和专家讲座，7天的动手项目。
 
 本仓库用于存放动手项目阶段的所有项目源码、操作手册和技术笔记等内容，如果在仓库中没有发现你所在小组的项目，请联系我。weli@xilinx.com
 
