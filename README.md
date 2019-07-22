@@ -12,6 +12,14 @@ This repository contains all the designs that submitted by trainees in summer ca
 
 ## Project List（完整的项目列表）
 
+This reports of the projects are in the dir of [xilinxSummerCampReports ](./xilinxSummerCampReports).
+
+各个项目的报告在xilinxSummerCampReports目录下。
+
+The detailes of the projects are shown as follow:
+
+各个项目的详细信息如下所示：
+
 No. | Platform | Team Member | Projec Name
 -|-|-|-
 1|Ultra96|鲍春、胡心雨、常乐|[基于Ultra96的行人检测系统](https://github.com/EdwardBao1006/SSD_detection_by_DPU_on_Ultra_96.git)|
