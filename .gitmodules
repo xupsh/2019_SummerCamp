@@ -7,3 +7,6 @@
 [submodule "Digital_circuit_experiment"]
 	path = Digital_circuit_experiment
 	url = https://github.com/CCP101/Digital_circuit_experiment.git
+[submodule "FaceScore-Accelerated-by-Xilinx-DPU"]
+	path = FaceScore-Accelerated-by-Xilinx-DPU
+	url = https://github.com/dujiangsu/FaceScore-Accelerated-by-Xilinx-DPU.git
