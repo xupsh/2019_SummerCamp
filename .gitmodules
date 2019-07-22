@@ -4,3 +4,6 @@
 [submodule "HLS_xfopencv"]
 	path = HLS_xfopencv
 	url = https://github.com/wuxinruru/HLS_xfopencv.git
+[submodule "Digital_circuit_experiment"]
+	path = Digital_circuit_experiment
+	url = https://github.com/CCP101/Digital_circuit_experiment.git
