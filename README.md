@@ -29,9 +29,9 @@ No. | Platform | Team Member | Project Name
 -|-|-|-
 1|Ultra96|鲍春、胡心雨、常乐|[基于Ultra96的行人检测系统](https://github.com/EdwardBao1006/SSD_detection_by_DPU_on_Ultra_96.git)
 2|PYNQ-Z2|李明莉、葛倍倍、钱佳、张俊杰|基于PYNQ的调酒机器人设计
-3|AWS|朱泳波、陆志成、刘中元、姚汉梅|[SDAceel环境下的CRC算法加速](https://github.com/jojo-oop/SDAccel)
+3|AWS|朱泳波、陆志成、刘中元、姚汉梅|SDAceel环境下的CRC算法加速
 5|PYNQ-Z2|赵剑飞、刘业扬、刘荪荟|基于SURF特征的实时角度测量
-6|PYNQ-Z2|吴欣茹、黄婧雯、唐轩、仲海兵| [变色相机](https://github.com/wuxinruru/HLS_xfopencv.git)
+6|PYNQ-Z2|吴欣茹、黄婧雯、唐轩、仲海兵| 变色相机
 7|PYNQ-Z2|李文涛、苗壮、胡遵阳|[数电课程实验](https://github.com/CCP101/Digital_circuit_experiment)
 8|PYNQ-Z2|李玉振、王家豪、周乾|数字字符识别
 9|PYNQ-Z2|王奕闵、周义其、王智恒、曹子奇|数字识别
@@ -49,7 +49,7 @@ No. | Platform | Team Member | Project Name
 27|PYNQ-Z2|赵颖渊、李辉、曹新野|[电子音乐生成、效果器](https://github.com/LexPG12138/Xilinx_MUSIC.git)
 28|PYNQ-Z2|周聪、马慧宇、马丽萍|Respeaker解码及定位
 29|PYNQ-Z2|陈晨、叶进取、牟德增|[基于PYNQ的交通标志检测系统](https://github.com/51184501129/Traffic-Light-Detection.git)
-30|PYNQ-Z2|李响、张书瑜、彭滨|[基于PYNQ的肤色检测算法](https://github.com/pb8948/skin_dection)
+30|PYNQ-Z2|李响、张书瑜、彭滨|基于PYNQ的肤色检测算法
 31|PYNQ-Z2|吴玮琳、刘鹏晨|[红绿灯识别及反馈](https://github.com/51184501129/Traffic-Light-Detection.git)
 32|PYNQ-Z2|洪刚、白鹏程、刘海军、王琳|车道线检测
 33|PYNQ-Z2|贾广瑞、赵凡、陈欣怡、杨悦|行人模型检测
