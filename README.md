@@ -18,9 +18,9 @@ This repository contains all the designs that submitted by trainees in summer ca
 
 The reports of the projects are in [XilinxSummerCampReports ](./xilinxSummerCampReports).
 
-各个项目的报告在XilinxSummerCampReports目录下。
+各个项目的报告在[XilinxSummerCampReports](./xilinxSummerCampReports)目录下。
 
-The detailes of the projects are shown as follow:
+The details of the projects are shown as follow.
 
 各个项目的详细信息如下所示：
 
