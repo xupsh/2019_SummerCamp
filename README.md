@@ -13,6 +13,12 @@ This repository contains all the designs that submitted by trainees in summer ca
 
 本仓库用于存放动手项目阶段的所有项目源码、操作手册和技术笔记等内容，如果在仓库中没有发现你所在小组的项目，请联系xup_china@xilinx.com
 
+## Training and experiment (培训和实验)
+
+Part of PPT during training is in [pptDuringTraining](./pptDuringTraining) .
+
+部分培训/专家讲座在 [pptDuringTraining](./pptDuringTraining) 目录下.
+
 
 
 ## Project List（完整的项目列表）
