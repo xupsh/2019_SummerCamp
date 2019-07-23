@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="./images/SummerCamp.png">
+<img src ="./images/groupPhoto.jpg">
 </p>
 <p align = "center">
 
@@ -13,11 +13,7 @@ This repository contains all the designs that submitted by trainees in summer ca
 
 本仓库用于存放动手项目阶段的所有项目源码、操作手册和技术笔记等内容，如果在仓库中没有发现你所在小组的项目，请联系xup_china@xilinx.com
 
-## Group Photo (合照)
-<p align="center">
-<img src ="./images/groupPhoto.jpg">
-</p>
-<p align = "center">
+
 
 ## Project List（完整的项目列表）
 
@@ -68,3 +64,12 @@ No. | Platform | Team Member | Project Name
 Please continue to optimize the designs.
 
 虽然暑期学校已经结束，我们依然欢迎大家继续改进设计，并提交修订版的代码和文档到github中。
+
+
+
+# Summer Camp Schedue（暑期训练营日程表）
+<p align="center">
+<img src ="./images/SummerCampSchedule.jpg">
+</p>
+<p align = "center">
+
