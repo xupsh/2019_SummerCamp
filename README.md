@@ -40,7 +40,7 @@ No. | Platform | Team Member | Project Name
 8|PYNQ-Z2|李玉振、王家豪、周乾|数字字符识别
 9|PYNQ-Z2|王奕闵、周义其、王智恒、曹子奇|数字识别
 13|SEA-S7|张泽欢、刘威壮、凌瑾、徐小清|[数字字符识别](https://github.com/liuweistrong/Digital-Recognition)
-14|SEA-S7|王文杰、许巾一、何群芳|自动路标识别巡线平衡车
+14|SEA-S7|王文杰、许巾一、何群芳|[自动路标识别巡线平衡车](https://github.com/BeautifulEnding/Tracing-road-sign-recognition-trolley)
 15|SEA-S7|王路、姜亚超、陈光磊、田蕾|基于SEA-S7平台的小球追踪
 16|SEA-S7|戴荣时、程嘉轩、张陈睿、孙沐天|基于SEA-S7的二维码识别系统
 17|Ultra96|杜江溯、古奕康、陈志炜、刘璐|[基于DPU 加速的深度学习人脸识别与颜值评估](https://github.com/dujiangsu/FaceScore-Accelerated-by-Xilinx-DPU.git)
