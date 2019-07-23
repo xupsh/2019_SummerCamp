@@ -34,7 +34,7 @@ The details of the projects are shown as follow.
 No. | Platform | Team Member | Project Name 
 -|-|-|-
 1|Ultra96|鲍春、胡心雨、常乐|[基于Ultra96的行人检测系统](https://github.com/EdwardBao1006/SSD_detection_by_DPU_on_Ultra_96.git)
-2|PYNQ-Z2|李明莉、葛倍倍、钱佳、张俊杰|基于PYNQ的调酒机器人设计
+2|PYNQ-Z2|李明莉、葛倍倍、钱佳、张俊杰|[基于PYNQ的调酒机器人设计](https://github.com/Bell-ZJUT/PYNQ-based-bartending-robot.git)
 3|AWS|朱泳波、陆志成、刘中元、姚汉梅|SDAceel环境下的CRC算法加速
 5|PYNQ-Z2|赵剑飞、刘业扬、刘荪荟|基于SURF特征的实时角度测量
 6|PYNQ-Z2|吴欣茹、黄婧雯、唐轩、仲海兵| 变色相机
