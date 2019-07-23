@@ -1,11 +1,11 @@
 ![alt tag](./images/SummerCamp.png)
-# 2019 SEU-Xilinx International Summer School
+# 2019 SEU-Xilinx International Summer Camp
 
-2019 SEU-Xilinx International Summer School was conducted in NanJing city, from 7th July to 19th July and there were 112 trainees from 70+ different schools all over the world. The training was separated into 2 stages, 5-day-long lectures and technical trainings and  7-day-long project time. 
+2019 SEU-Xilinx International Summer Camp was conducted in NanJing city, from 7th July to 19th July and there were 112 trainees from 70+ different schools all over the world. The training was separated into 2 phases, 5-day-long lectures and  7-day-long project execution 
 
 This repository contains all the designs that submitted by trainees in summer camp, if you can not find the project of your team, please contact with me @weli@xilinx.com. 
 
-2019 SEU-Xilinx暑期学校从7月7日到7月19日，在南京举办，为期12天，共有112名来自70多所高校的学员参加，培训包括5天的技术培训和专家讲座，7天的动手项目。
+2019 SEU-Xilinx暑期学校从7月7日到7月19日，在南京举办，为期12天，共有112名来自70多所高校的学员参加，培训包括5天的技术培训/专家讲座和7天的动手项目。
 
 本仓库用于存放动手项目阶段的所有项目源码、操作手册和技术笔记等内容，如果在仓库中没有发现你所在小组的项目，请联系我。weli@xilinx.com
 
@@ -62,4 +62,4 @@ No. | Platform | Team Member | Projec Name
 
 Please continue to optimize the designs.
 
-虽然暑期学校已经结束，我们依然欢迎大家不继续改进设计，并提交修订版的代码个文档到github中。
+虽然暑期学校已经结束，我们依然欢迎大家不继续改进设计，并提交修订版的代码和文档到github中。
