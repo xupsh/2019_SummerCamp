@@ -31,3 +31,6 @@
 [submodule "FPGABasedHighPerformanceTargetChecking"]
 	path = FPGABasedHighPerformanceTargetChecking
 	url = https://github.com/xilinxfairchild/FPGABasedHighPerformanceTargetChecking.git
+[submodule "Tracing-road-sign-recognition-trolley"]
+	path = Tracing-road-sign-recognition-trolley
+	url = https://github.com/BeautifulEnding/Tracing-road-sign-recognition-trolley.git
