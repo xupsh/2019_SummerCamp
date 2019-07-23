@@ -67,4 +67,4 @@ No. | Platform | Team Member | Project Name
 
 Please continue to optimize the designs.
 
-虽然暑期学校已经结束，我们依然欢迎大家不继续改进设计，并提交修订版的代码和文档到github中。
+虽然暑期学校已经结束，我们依然欢迎大家继续改进设计，并提交修订版的代码和文档到github中。
