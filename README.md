@@ -67,7 +67,7 @@ Please continue to optimize the designs.
 
 
 
-# Summer Camp Schedue（暑期训练营日程表）
+# Summer Camp Schedue（日程回顾）
 <p align="center">
 <img src ="./images/SummerCampSchedule.jpg">
 </p>
