@@ -13,7 +13,7 @@ This repository contains all the designs that submitted by trainees in summer ca
 
 本仓库用于存放动手项目阶段的所有项目源码、操作手册和技术笔记等内容，如果在仓库中没有发现你所在小组的项目，请联系xup_china@xilinx.com
 
-## Training and experiment (培训和实验)
+## Training and Experiment (培训和实验)
 
 Part of PPT during training is in [pptDuringTraining](./pptDuringTraining) .
 
@@ -21,7 +21,7 @@ Part of PPT during training is in [pptDuringTraining](./pptDuringTraining) .
 
 
 
-## Project List（完整的项目列表）
+## Projects List（项目列表）
 
 The reports of the projects are in [XilinxSummerCampReports ](./xilinxSummerCampReports)
 
@@ -67,7 +67,7 @@ No. | Platform | Team Member | Project Name
 
 # Contribute（贡献）
 
-Please continue to optimize the designs.
+Please continue to optimize the designs and update your github.
 
 虽然暑期学校已经结束，我们依然欢迎大家继续改进设计，并提交修订版的代码和文档到github中。
 
